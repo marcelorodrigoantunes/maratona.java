@@ -1,3 +1,5 @@
+package maratona.java;
+
 public class DevJava03 {
     public static void main(String[] args) {
         String nome = "Marcelo";

@@ -1,3 +1,5 @@
+package maratona.java;
+
 public class DevJava01 {
     public static void main(String[] args) {
         System.out.println("Ola Jesus");

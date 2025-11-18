@@ -1,3 +1,5 @@
+package maratona.java;
+
 public class DevJava05 {
     public static void main(String[] args) {
         int idade = 15;

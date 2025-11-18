@@ -1,3 +1,5 @@
+package maratona.java;
+
 public class DevJava02TiposPrimitivos {
     public static void main(String[] args) {
         int idade = (int) 100000000000L;

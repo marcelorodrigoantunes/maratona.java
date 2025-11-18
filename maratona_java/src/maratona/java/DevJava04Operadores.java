@@ -1,3 +1,5 @@
+package maratona.java;
+
 public class DevJava04Operadores {
     public static void main(String[] args) {
         int numero01 = 10;

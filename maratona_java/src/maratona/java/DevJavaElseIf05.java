@@ -1,3 +1,5 @@
+package maratona.java;
+
 public class DevJavaElseIf05 {
     public static void main(String[] args) {
 
