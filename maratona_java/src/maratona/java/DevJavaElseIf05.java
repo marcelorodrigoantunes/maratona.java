@@ -4,7 +4,7 @@ public class DevJavaElseIf05 {
     public static void main(String[] args) {
 
         /* outra opção
-        
+
          int idade = 18;
         String categoria;
 
