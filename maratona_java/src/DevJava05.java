@@ -5,6 +5,8 @@ public class DevJava05 {
 
         if(isAutorizadoComprarBebida) {
             System.out.println("Autorizado a comprar bebida alcólica");
+        }else {
+            System.out.println("Não autorizado a comprar bebida alcólica");
         }
 
         if(!isAutorizadoComprarBebida){
