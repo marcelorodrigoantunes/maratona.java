@@ -29,12 +29,12 @@ public class DevJava05Condicionais {
                 System.out.println("Opção invalida");
                 break;
         }
-        char sexo = 'F';
+        String sexo = "F";
         switch (sexo) {
-            case 'M':
+            case "M":
                 System.out.println("Masculino");
                 break;
-            case 'F':
+            case "F":
                 System.out.println("Feminino");
                 break;
             default:
