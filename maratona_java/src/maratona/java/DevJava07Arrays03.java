@@ -8,5 +8,8 @@ public class DevJava07Arrays03 {
         for (int i = 0; i < numeros3.length; i++) {
             System.out.println(numeros3[i]);
         }
+        for (int num : numeros2) {
+            System.out.println(num);
+        }
     }
 }
